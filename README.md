@@ -1,6 +1,6 @@
 <h3><samp>Hi I'm weatherstar 👋</samp></h3>
 <p><samp>A web developer based in Xi'an, currently working at <a href="https://github.com/Tencent">Tencent</a>.<samp></p>
-<p><samp>Decentralization is the future trend.<samp></p>
+<p><samp>Believe in decentralization.<samp></p>
 <p>
   <samp>
     <a href="https://weatherstar.fun/about">me</a> .
