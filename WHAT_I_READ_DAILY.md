@@ -1,4 +1,7 @@
-<h1>What I read daily</h1><section id="reading-list-2022-07-20"><h4>2022-07-20</h4><ul><li><details>
+<h1>What I read daily</h1><section id="reading-list-2022-07-29"><h4>2022-07-29</h4><ul><li><details>
+    <summary><samp><a href="https://medium.com/better-programming/react-v18-demystifying-useref-forwardref-and-useimperativehandle-feec2fc5b2f6" target="_blank">React v18: useRef — What, When and Why?</a></samp></summary>
+    <samp><p>The concept of values and references is not new to any programmer. Values are what the name suggests, simple snapshots of data at a point in time. To jog your memory for the latter, references are…</p><samp>
+  </samp></samp></details></li></ul></section><section id="reading-list-2022-07-20"><h4>2022-07-20</h4><ul><li><details>
     <summary><samp><a href="https://nesbtesh.medium.com/how-i-write-react-after-8-years-12cbf82c351" target="_blank">How I write React after 8 years</a></samp></summary>
     <samp><p>I am starting with my contrarians views that way I can get rid of 90% of coders that think that know what they are doing but end up building Frankensteins. This article is for that 10% of coders that…</p><samp>
   </samp></samp></details></li></ul></section><section id="reading-list-2022-07-11"><h4>2022-07-11</h4><ul><li><details>
