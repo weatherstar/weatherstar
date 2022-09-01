@@ -1,4 +1,7 @@
 <h1>What I read daily</h1><section id="reading-list-2022-09-01"><h4>2022-09-01</h4><ul><li><details>
+    <summary><samp><a href="https://overreacted.io/before-you-memo/" target="_blank">Before You memo()</a><sub>#react</sub><blockquote>some comments</blockquote></samp></summary>
+    <samp><p>Rendering optimizations that come naturally.</p></samp>
+  </details></li><li><details>
     <summary><samp><a href="https://medium.com/@adarshrai3011/17-react-js-tools-for-developers-6e0e8ff25298" target="_blank">17 React JS Tools For Developers</a></samp></summary>
     <samp><p>Today we will go into the tools and libraries to support developers in the process programming with React JS! Create React App helps you to create projects quickly and easily with just one sentence…</p></samp>
   </details></li></ul></section><section id="reading-list-2022-08-17"><h4>2022-08-17</h4><ul><li><details>
