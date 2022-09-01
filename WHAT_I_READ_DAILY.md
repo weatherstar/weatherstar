@@ -1,4 +1,10 @@
-<h1>What I read daily</h1><section id="reading-list-2022-08-17"><h4>2022-08-17</h4><ul><li><details>
+<h1>What I read daily</h1><section id="reading-list-2022-09-01"><h4>2022-09-01</h4><ul><li><details>
+    <summary><samp>
+    <a href="https://medium.com/javascript-scene/why-every-react-developer-should-learn-function-composition-23f41d4db3b1" target="_blank">Why Every React Developer Should Learn Function Composition</a>
+    
+    </samp></summary>
+    <samp><p>Imagine you’re building a React application. There are a number of things you want to do on just about every page view of the application. Things like this are commonly called cross-cutting concerns…</p></samp>
+  </details></li></ul></section><section id="reading-list-2022-08-17"><h4>2022-08-17</h4><ul><li><details>
     <summary><samp><a href="https://www.joshwcomeau.com/react/why-react-re-renders/" target="_blank">Why React Re-Renders</a></samp></summary>
     <samp><p>In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.</p><samp>
   </samp></samp></details></li></ul></section><section id="reading-list-2022-07-29"><h4>2022-07-29</h4><ul><li><details>
